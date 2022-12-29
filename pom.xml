@@ -6,7 +6,7 @@
 
     <groupId>com.blockware.spring-boot</groupId>
     <artifactId>rest-resource</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 
     <licenses>
         <license>

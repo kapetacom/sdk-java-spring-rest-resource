@@ -1,1 +1,1 @@
-# REST resource support for Blockware Spring Boot SDK
+# REST resource support for Kapeta Spring Boot SDK

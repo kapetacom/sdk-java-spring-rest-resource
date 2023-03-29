@@ -74,8 +74,8 @@
 
 
     <scm>
-        <url>https://github.com/blockwarecom/sdk-java-spring-rest-resource#readme</url>
-        <connection>git+https://github.com/blockwarecom/sdk-java-spring-rest-resource.git</connection>
+        <url>https://github.com/kapetacom/sdk-java-spring-rest-resource#readme</url>
+        <connection>git+https://github.com/kapetacom/sdk-java-spring-rest-resource.git</connection>
     </scm>
 
     <parent>

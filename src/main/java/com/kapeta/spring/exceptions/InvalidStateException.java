@@ -1,4 +1,4 @@
-package com.blockware.spring.exceptions;
+package com.kapeta.spring.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
